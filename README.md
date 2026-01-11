@@ -26,12 +26,10 @@ The project focuses on clean design, smooth transitions, and beginner-friendly c
 
 ## 📸 Screenshots
 
+<img width="811" height="783" alt="image" src="https://github.com/user-attachments/assets/60823e0e-c29c-45fc-ac40-37db25055a8d" />
 
+<img width="798" height="680" alt="Screenshot 2026-01-11 122448" src="https://github.com/user-attachments/assets/4a2ed8db-df9b-4c19-9db6-24c0e3c3bda9" />
 
-![Dark Mode Preview](screenshots/dark.png)
-![Light Mode Preview](screenshots/light.png)
-git clone https://github.com/your-username/your-repo-name.git
-Open the project folder
 
 
 
