@@ -26,11 +26,16 @@ The project focuses on clean design, smooth transitions, and beginner-friendly c
 
 ## 📸 Screenshots
 
-> Add screenshots here after uploading images  
-```md
+
+
 ![Dark Mode Preview](screenshots/dark.png)
 ![Light Mode Preview](screenshots/light.png)
 git clone https://github.com/your-username/your-repo-name.git
 Open the project folder
 
+
+
 Run index.html in your browser
+├── index.html
+├── README.md
+└── screenshots/
