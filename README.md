@@ -30,3 +30,4 @@ The project focuses on clean design, smooth transitions, and beginner-friendly c
 ```md
 ![Dark Mode Preview](screenshots/dark.png)
 ![Light Mode Preview](screenshots/light.png)
+git clone https://github.com/your-username/your-repo-name.git
